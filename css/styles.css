@@ -1,18 +1,15 @@
-.left {
+img {
   float: left;
-  padding-right: 30px;
+  padding: 30px;
+  position: relative;
 }
-
-.right {
-  float: left;
-  padding-right: 40px;
-}
-
 .sidebar {
   color: purple;
   float: right;
   background-color: #a1e7f4;
   padding-right: 50px;
+  border: 5px dotted teal;
+  margin: 10px
 }
 ul {
     list-style-type: none;
