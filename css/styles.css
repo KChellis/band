@@ -1,0 +1,22 @@
+.left {
+  float: left;
+  padding-right: 30px;
+}
+
+.right {
+  float: left;
+  padding-right: 40px;
+}
+
+.sidebar {
+  color: purple;
+  float: right;
+  background-color: #a1e7f4;
+  padding-right: 50px;
+}
+ul {
+    list-style-type: none;
+}
+h3 {
+  text-align: center;
+}
